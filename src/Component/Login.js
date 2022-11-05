@@ -8,11 +8,7 @@ const Login = () => {
          <i class="fa-brands fa-google"></i>
              Continue with google</button>;
 
-             <div>
-                <div>
-                    
-                </div>
-             </div>
+            
   };
   
   export default Login;

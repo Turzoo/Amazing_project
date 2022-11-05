@@ -6,7 +6,7 @@ const Login = () => {
   
     return <button onClick={() => loginWithRedirect()}>
          <i class="fa-brands fa-google"></i>
-             Continue with google</button>;
+             Please Click To Login</button>;
 
             
   };

@@ -1,31 +1,28 @@
 .App {
-  text-align: center;
-  background-color: rgb(38, 63, 55);
-}
-.welcome{
-  background-color: rgb(38, 63, 55);
-  padding:50px;
-  color:black;
-  border:none;
-  }
- 
-
-
-button{
-  background-color: black;
-  padding:25px;
-  border-radius: .5rem;
-  color:yellowgreen;
-  border:none;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  /*text-align: center;*/
 }
 
-button:hover{
-  border:2px solid yellowgreen;
-}
-
-button i{
+button i {
   margin-right: 10px;
-  
+  color: hsl(170, 79%, 39%);
+}
+.logIn {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 35px;
+  cursor: pointer;
+  align: center;
+}
+.logOut {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  padding: 15px 60px;
+  border-radius: 5px;
+  margin: 10px 35px;
+  cursor: pointer;
+  align: center;
 }
